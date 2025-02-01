@@ -1,6 +1,4 @@
 # Brute-force-for-login-bypass-on-a-local-website
-# Brute-force-for-login-bypass-on-a-local-website
-
 ## Description - Sample Website Backstory
 - A-Z Education website offers courses related to React Development, Amazon Web Services and Cyber Security algorithms.
 - The website has a login page through which users create an account to purchase and view videos related to the course. 
